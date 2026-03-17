@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "randomicity:block/truffle_block"
+    }
+  }
+}
